@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-smart-gen-component",
+  "version": "1.0.0",
+  "description": "Быстрое создание компонентов",
+  "keywords": ["vue","vue-cli","create","components","vue create components","vue create"],
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Stanislavsky",
+  "license": "MIT"
+}
