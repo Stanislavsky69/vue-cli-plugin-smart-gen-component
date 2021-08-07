@@ -5,7 +5,7 @@
 import { defineComponent } from 'vue';
 import <%= options.componentName %> from './<%= options.componentName %>.module.js'
 export default defineComponent({
- name:  <%= options.componentName %>,
+ name:  '<%= options.componentName %>',
  setup(props, context){}
 })
 </script>
